@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">SUMATHI M</h3>
+            <h3 className="text-xl font-bold mb-4">Nivedha Prabha R</h3>
             <p className="text-primary-foreground/80">
               Assistant Professor dedicated to advancing knowledge through research and inspiring the next generation of scholars.
             </p>
@@ -40,9 +40,10 @@ const Footer = () => {
 
           <div>
             <h4 className="text-lg font-semibold mb-4">Connect</h4>
+            <p className="text-primary-foreground/80">nivedharam88@gmail.com</p>
             <div className="flex gap-4">
               <a
-                href="mailto:msumathi02@gmail.com"
+                href="mailto:nivedharam88@gmail.com"
                 className="p-2 bg-primary-foreground/10 hover:bg-primary-foreground/20 rounded-lg transition-colors"
                 aria-label="Email"
               >

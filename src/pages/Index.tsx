@@ -12,7 +12,7 @@ const Index = () => {
           <div className="max-w-3xl mx-auto text-center animate-fade-in">
             {/* Changed name color to black */}
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-black">
-              Sumathi
+              Nivedha Prabha R
             </h1>
 
             <p className="text-lg md:text-xl text-foreground/80 mb-6">
@@ -44,9 +44,9 @@ const Index = () => {
               <div className="inline-flex p-4 bg-primary/10 rounded-full mb-4">
                 <Users className="w-6 h-6 text-primary" />
               </div>
-              <h3 className="text-xl font-bold">Industry Experience</h3>
+              <h3 className="text-xl font-bold">Experience</h3>
               <p className="text-foreground/70 mt-2">
-                Module Lead & Software Engineer — TCS, Wipro
+                Assitant Professor — Sri Ramakrishna college of Eng , J.J Roever Engineering college .
               </p>
             </Card>
 
@@ -56,7 +56,7 @@ const Index = () => {
               </div>
               <h3 className="text-xl font-bold">Contact</h3>
               <p className="text-foreground/70 mt-2">
-                msumathi02@gmail.com • +91 9789673675
+                nivedharam88@gmail.com • +91 9600363582
               </p>
             </Card>
           </div>

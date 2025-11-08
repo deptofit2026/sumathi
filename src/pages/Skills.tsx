@@ -12,20 +12,28 @@ const Skills = () => {
           <Card className="p-6">
             <h3 className="text-lg font-semibold mb-3">Core Technologies</h3>
             <ul className="list-disc pl-5 text-foreground/80">
-              <li>Java (J2EE)</li>
-              <li>ASAP (Automated Service Activation Program)</li>
-              <li>Oracle (8i/9i/11g)</li>
-              <li>BEA WebLogic</li>
+              <li>Grid Computing </li>
+              <li>Cloud Computing</li>
+              <li>Computer Networks</li>
+              <li>Database Management Systems (DBMS)</li>
             </ul>
           </Card>
 
           <Card className="p-6">
-            <h3 className="text-lg font-semibold mb-3">Tools & Methods</h3>
+            <h3 className="text-lg font-semibold mb-3">Networking Knowledge</h3>
             <ul className="list-disc pl-5 text-foreground/80">
-              <li>Eclipse, Service Studio</li>
-              <li>PL/SQL Developer, Borland Star Team</li>
-              <li>Agile & Traditional SDLC</li>
-              <li>Unix environments</li>
+              <li>Cisco Certified Network Associate (CCNA 1)</li>
+              <li>Cisco Certified Network Associate (CCNA 2)</li>
+            </ul>
+          </Card>
+
+          <Card className="p-6">
+            <h3 className="text-lg font-semibold mb-3">Programming & Technical Skills</h3>
+            <ul className="list-disc pl-5 text-foreground/80">
+              <li>C</li>
+              <li>C++</li>
+              <li>Java</li>
+              <li>Python</li>
             </ul>
           </Card>
         </div>

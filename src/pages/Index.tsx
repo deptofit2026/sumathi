@@ -12,7 +12,7 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center animate-fade-in">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-black">Sumathi</h1>
-            <p className="text-lg md:text-xl text-foreground/80 mb-6">Assistant Professor, Department of Computer Science & Engineering</p>
+            <p className="text-lg md:text-xl text-foreground/80 mb-6">Assistant Professor, Department of Information Technology</p>
             <div className="flex justify-center gap-4">
               <Link to="/about"><Button>About</Button></Link>
               <Link to="/experience"><Button variant="secondary">Experience</Button></Link>

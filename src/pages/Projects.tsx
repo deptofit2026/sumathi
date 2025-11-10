@@ -9,25 +9,27 @@ const Projects = () => {
         <h1 className="text-3xl font-bold mb-6">Key Projects</h1>
 
         <Card className="p-6 mb-4">
-          <h3 className="text-lg font-semibold">Policy Based Load Balancing in Grid Environment</h3>
-          <p className="text-sm text-foreground/70 mb-2">Apr 2010 – Mar 2011</p>
-          <p className="text-foreground/80">Implemented a fuzzy-based system for efficient global load balancing in grid computing.</p>
+          <h3 className="text-lg font-semibold">Aircel — Network Cartridge Development</h3>
+          <p className="text-sm text-foreground/70 mb-2">Mar 2011 – Apr 2012</p>
+          <p className="text-foreground/80">Developed network cartridges, XML-driven service configs, Nokia-Siemens HLR integration.</p>
         </Card>
 
         <Card className="p-6 mb-4">
-          <h3 className="text-lg font-semibold">Hybrid Decomposition for Query Processing in Grid Databases</h3>
-          <p className="text-sm text-foreground/70 mb-2">Aug 2008 – Aug 2009</p>
-          <p className="text-foreground/80">Designed a secure and efficient resource management approach for grid database query processing.</p>
+          <h3 className="text-lg font-semibold">FMC — Fixed Mobile Convergence</h3>
+          <p className="text-sm text-foreground/70 mb-2">Aug 2008 – Aug 2010</p>
+          <p className="text-foreground/80">Designed FMC features to enable in-building mobile traffic over fixed networks.</p>
         </Card>
 
         <Card className="p-6 mb-4">
-          <h3 className="text-lg font-semibold">Optimal Jamming Attacks and Network Defense Policies in Wireless Sensor Network</h3>
-          <p className="text-foreground/80">Developed strategies to detect and defend against jamming attacks in sensor networks.</p>
+          <h3 className="text-lg font-semibold">WAD — Wholesale Access Delivery</h3>
+          <p className="text-sm text-foreground/70 mb-2">Mar 2009 – Jan 2010</p>
+          <p className="text-foreground/80">Built modules to process end-to-end provisioning and B2B interfaces.</p>
         </Card>
 
         <Card className="p-6">
-          <h3 className="text-lg font-semibold">Optimizing Resources Conflict in Workflow Management System</h3>
-          <p className="text-foreground/80">Proposed methods to minimize resource conflicts and improve efficiency in workflow systems.</p>
+          <h3 className="text-lg font-semibold">USAA — Funds Transfer Application</h3>
+          <p className="text-sm text-foreground/70 mb-2">Jan 2007 – Jul 2008</p>
+          <p className="text-foreground/80">Developed funds transfer features and annuity product functionality.</p>
         </Card>
       </div>
     </PageLayout>

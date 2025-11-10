@@ -28,8 +28,8 @@ const Contact = () => {
               <h3 className="text-lg font-semibold mb-3">Get in touch</h3>
               <p className="text-foreground/80 mb-4">For academic inquiries or consulting, contact via email or phone.</p>
               <div className="space-y-3 text-sm text-foreground/80">
-                <p><Mail className="inline-block mr-2 w-4 h-4 align-text-bottom"/> nivedharam88@gmail.com</p>
-                <p><Phone className="inline-block mr-2 w-4 h-4 align-text-bottom"/> +91 9600363582</p>
+                <p><Mail className="inline-block mr-2 w-4 h-4 align-text-bottom"/> msumathi02@gmail.com</p>
+                <p><Phone className="inline-block mr-2 w-4 h-4 align-text-bottom"/> +91 9789673675</p>
                 <p><MapPin className="inline-block mr-2 w-4 h-4 align-text-bottom"/> (City, India)</p>
               </div>
             </Card>

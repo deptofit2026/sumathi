@@ -8,9 +8,8 @@ const Header = () => {
   const navItems = [
     { to: "/", label: "Home" },
     { to: "/about", label: "About" },
-    { to: "/Experience", label: "Experience" },
-    { to: "/Skills", label: "Skills" },
-    { to: "/Projects", label: "Projects" },
+    { to: "/teaching", label: "Teaching" },
+    { to: "/research", label: "Research" },
     { to: "/contact", label: "Contact" },
   ];
 
